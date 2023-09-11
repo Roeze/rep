@@ -1,0 +1,22 @@
+.colorBabosa{
+ color:deeppink;   
+}
+nav{
+    background-color: blueviolet;
+    border: 2px solid blue;
+}
+body{
+    background-image: url("habitatNatural.jpg");
+    background-attachment: scroll;
+    list-style: none;
+}
+.botonInicio{
+    border-style: solid;
+    border-color: black;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+}
